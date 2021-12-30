@@ -1,2 +1,2 @@
-# react-hook
+# react-typescript
 Created with CodeSandbox
